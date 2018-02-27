@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="login">Login</string>
+    <string name="usuario">User</string>
+    <string name="password">Password</string>
+    <string name="confirmp">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="birthday">Birthday</string>
+    <string name="date">Select Date</string>
+    <string name="place">Place of Birth</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="nadar">Cars</string>
+    <string name="cine">Films</string>
+    <string name="futbol">Soccer</string>
+    <string name="tech">Tech</string>
+    <string name="register">Register</string>
+    <string name="datos">Datos</string>
+
+    <string-array name="cities_array">
+        <item>Medellin</item>
+        <item>Bogota</item>
+        <item>Cartagena</item>
+        <item>Barranquilla</item>
+        <item>Santa Marta</item>
+        <item>Cali</item>
+        <item>Bucaramanga</item>
+        <item>Rioacha</item>
+        <item>Manizales</item>
+        <item>Pereira</item>
+    </string-array>
+
+</resources>
